@@ -1,0 +1,1 @@
+Echonote does not collect, store, or transmit any personal data. Your OpenAI API key is stored locally on your device using Chrome's built-in storage. All transcripts are saved locally on your device and never sent to any server operated by Echonote. Audio is sent directly from your browser to OpenAI's API for transcription. We do not have access to your audio or transcripts.
